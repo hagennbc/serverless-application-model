@@ -2,7 +2,7 @@
 swagger: 2.0
 basePath: /qa
 info:
-  title: LambdaHellowWorld
+  title: LambdaHelloWorldQa
 schemes:
 - https
 paths:
