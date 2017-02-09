@@ -1,8 +1,8 @@
 ---
 swagger: 2.0
-basePath: /qa
+basePath: /dev
 info:
-  title: AwsSamExample
+  title: LambdaHellowWorld
 schemes:
 - https
 paths:
